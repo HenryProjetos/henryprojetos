@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Henrique</h1>
 
-<!--
-**HenryProjetos/henryprojetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=600&lines=Learning+HTML+%26+CSS;Building+My+First+Projects;Always+Learning%2C+Always+Growing"
+    alt="Typing SVG"
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🎓 Software Engineering Student</h3>
+
+<p align="center">
+  Starting my journey in software development and building a strong foundation in web development.
+</p>
+
+---
+
+<h2 align="center"> Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+##  Currently Learning
+
+- HTML5
+- CSS3
+- Web Development fundamentals
+- Programming fundamentals
