@@ -1,0 +1,54 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#849EEA"/>
+      <stop offset="100%" stop-color="#C99ACB"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#gradient)" />
+
+  <text
+    x="600"
+    y="130"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+    fill="#FFFFFF">
+    Henry
+  </text>
+
+  <text
+    x="600"
+    y="185"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    font-weight="600"
+    fill="#FFFFFF">
+    Always Learning, Always Growing
+  </text>
+
+  <path
+    d="M0 245
+       C180 285, 340 285, 520 270
+       C720 250, 900 225, 1200 235
+       L1200 300
+       L0 300 Z"
+    fill="#FFFFFF"
+    fill-opacity="0.30"
+  />
+
+  <path
+    d="M0 265
+       C200 295, 400 300, 600 280
+       C820 258, 1020 245, 1200 270
+       L1200 300
+       L0 300 Z"
+    fill="#FFFFFF"
+    fill-opacity="0.70"
+  />
+
+</svg>
