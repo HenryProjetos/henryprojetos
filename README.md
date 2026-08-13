@@ -19,11 +19,13 @@
 
 ---
 
-<h2 align="center"> Technologies</h2>
+<h2 align="center"> Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode" />
 </p>
+
+---
 
 <h2 align="center">Connect with me</h2>
 
