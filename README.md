@@ -1,8 +1,10 @@
-<h1 align="center">Henrique</h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="banner" width="100%">
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=600&lines=Learning+HTML+%26+CSS;Building+My+First+Projects;Always+Learning%2C+Always+Growing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4F9A&center=true&vCenter=true&width=700&lines=Learning+HTML+%26+CSS;Building+My+First+Projects;Always+Learning%2C+Always+Growing"
     alt="Typing SVG"
   />
 </p>
